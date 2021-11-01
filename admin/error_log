@@ -1,0 +1,110 @@
+[12-Sep-2021 04:30:39 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ictzonel/public_html/admin/blog-table.php:2) in /home/ictzonel/public_html/admin/blog-table.php on line 2
+[12-Sep-2021 04:31:08 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ictzonel/public_html/admin/blog-table.php:2) in /home/ictzonel/public_html/admin/blog-table.php on line 2
+[12-Sep-2021 04:32:15 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ictzonel/public_html/admin/blog-table.php:2) in /home/ictzonel/public_html/admin/blog-table.php on line 2
+[12-Sep-2021 04:32:51 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ictzonel/public_html/admin/students.php:2) in /home/ictzonel/public_html/admin/students.php on line 2
+[13-Sep-2021 06:34:43 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ictzonel/public_html/admin/searchpayment.php on line 41
+[13-Sep-2021 06:34:43 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ictzonel/public_html/admin/searchpayment.php on line 41
+[13-Sep-2021 06:34:44 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ictzonel/public_html/admin/searchpayment.php on line 41
+[13-Sep-2021 06:34:44 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ictzonel/public_html/admin/searchpayment.php on line 41
+[13-Sep-2021 06:34:44 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ictzonel/public_html/admin/searchpayment.php on line 41
+[13-Sep-2021 06:34:44 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ictzonel/public_html/admin/searchpayment.php on line 41
+[16-Sep-2021 02:19:04 America/New_York] PHP Fatal error:  Call to undefined function printr() in /home/ictzonel/public_html/admin/fees.php on line 44
+[16-Sep-2021 03:00:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:00:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:00:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:00:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:00:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:00:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:00:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:00:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:00:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:00:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:00:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:00:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:00:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:00:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:00:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:00:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:00 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:01:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/fees.php on line 53
+[16-Sep-2021 03:04:41 America/New_York] PHP Parse error:  syntax error, unexpected '$out' (T_VARIABLE) in /home/ictzonel/public_html/admin/fees.php on line 57
+[16-Sep-2021 03:13:09 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/ictzonel/public_html/admin/fees.php on line 79
+[16-Sep-2021 15:25:23 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ictzonel/public_html/admin/blog-editor.php:2) in /home/ictzonel/public_html/admin/blog-editor.php on line 2
+[16-Sep-2021 15:30:39 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictzonel/public_html/admin/blog-update.php:2) in /home/ictzonel/public_html/admin/blog-update.php on line 23
+[16-Sep-2021 15:32:02 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictzonel/public_html/admin/blog-update.php:2) in /home/ictzonel/public_html/admin/blog-update.php on line 23
+[16-Sep-2021 15:32:16 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ictzonel/public_html/admin/blog-editor.php:2) in /home/ictzonel/public_html/admin/blog-editor.php on line 2
+[18-Sep-2021 03:17:55 America/New_York] PHP Fatal error:  Call to undefined function get_files() in /home/ictzonel/public_html/admin/admin.php on line 15
+[18-Sep-2021 03:21:28 America/New_York] PHP Fatal error:  Cannot redeclare get_years() (previously declared in /home/ictzonel/public_html/admin/functions/function.php:5) in /home/ictzonel/public_html/admin/functions/function.php on line 19
+[18-Sep-2021 03:22:12 America/New_York] PHP Fatal error:  Cannot redeclare get_teacher() (previously declared in /home/ictzonel/public_html/admin/functions/function.php:22) in /home/ictzonel/public_html/admin/functions/function.php on line 36
+[18-Sep-2021 03:22:33 America/New_York] PHP Fatal error:  Cannot redeclare get_grades() (previously declared in /home/ictzonel/public_html/admin/functions/function.php:40) in /home/ictzonel/public_html/admin/functions/function.php on line 54
+[18-Sep-2021 03:52:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ictzonel/public_html/admin/admin.php on line 33
+[18-Sep-2021 03:52:51 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ictzonel/public_html/admin/admin.php on line 34
+[20-Sep-2021 22:33:01 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ictzonel/public_html/admin/blog-editor.php:2) in /home/ictzonel/public_html/admin/blog-editor.php on line 2
+[20-Sep-2021 22:34:47 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictzonel/public_html/admin/blog-update.php:2) in /home/ictzonel/public_html/admin/blog-update.php on line 23
+[20-Sep-2021 22:37:36 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictzonel/public_html/admin/blog-update.php:2) in /home/ictzonel/public_html/admin/blog-update.php on line 23
+[21-Sep-2021 00:37:33 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ictzonel/public_html/admin/blog-editor.php:2) in /home/ictzonel/public_html/admin/blog-editor.php on line 2
+[21-Sep-2021 00:41:04 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictzonel/public_html/admin/blog-update.php:2) in /home/ictzonel/public_html/admin/blog-update.php on line 23
+[21-Sep-2021 00:41:22 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictzonel/public_html/admin/blog-update.php:2) in /home/ictzonel/public_html/admin/blog-update.php on line 23
+[21-Sep-2021 00:42:54 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ictzonel/public_html/admin/blog-editor.php:2) in /home/ictzonel/public_html/admin/blog-editor.php on line 2
+[21-Sep-2021 00:44:17 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictzonel/public_html/admin/blog-update.php:2) in /home/ictzonel/public_html/admin/blog-update.php on line 23
+[23-Sep-2021 21:13:12 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ictzonel/public_html/admin/blog-editor.php:2) in /home/ictzonel/public_html/admin/blog-editor.php on line 2
+[23-Sep-2021 21:14:09 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ictzonel/public_html/admin/blog-editor.php:2) in /home/ictzonel/public_html/admin/blog-editor.php on line 2
+[23-Sep-2021 21:15:27 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictzonel/public_html/admin/blog-update.php:2) in /home/ictzonel/public_html/admin/blog-update.php on line 23
+[24-Sep-2021 07:28:16 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ictzonel/public_html/admin/blog-editor.php:2) in /home/ictzonel/public_html/admin/blog-editor.php on line 2
+[28-Sep-2021 05:17:19 America/New_York] PHP Fatal error:  Call to undefined function recordings() in /home/ictzonel/public_html/admin/add_recordings.php on line 60
+[28-Sep-2021 05:17:58 America/New_York] PHP Fatal error:  Call to undefined function reordings() in /home/ictzonel/public_html/admin/add_recordings.php on line 60
+[28-Sep-2021 05:18:01 America/New_York] PHP Fatal error:  Call to undefined function reordings() in /home/ictzonel/public_html/admin/add_recordings.php on line 60
+[28-Sep-2021 05:18:03 America/New_York] PHP Fatal error:  Call to undefined function reordings() in /home/ictzonel/public_html/admin/add_recordings.php on line 60
+[28-Sep-2021 05:18:04 America/New_York] PHP Fatal error:  Call to undefined function reordings() in /home/ictzonel/public_html/admin/add_recordings.php on line 60
+[28-Sep-2021 05:18:04 America/New_York] PHP Fatal error:  Call to undefined function reordings() in /home/ictzonel/public_html/admin/add_recordings.php on line 60
+[28-Sep-2021 05:58:27 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/ictzonel/public_html/admin/action.php on line 42
+[28-Sep-2021 06:25:55 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ictzonel/public_html/admin/action.php on line 46
+[28-Sep-2021 06:28:05 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ictzonel/public_html/admin/action.php on line 46
+[28-Sep-2021 06:28:06 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ictzonel/public_html/admin/action.php on line 46
+[28-Sep-2021 06:41:36 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/ictzonel/public_html/admin/action.php on line 72

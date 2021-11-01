@@ -1,0 +1,9 @@
+[16-Aug-2021 05:21:48 America/New_York] PHP Warning:  require_once(./includes/nav.php): failed to open stream: No such file or directory in /home/ictzonel/public_html/index.php on line 38
+[16-Aug-2021 05:21:48 America/New_York] PHP Fatal error:  require_once(): Failed opening required './includes/nav.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ictzonel/public_html/index.php on line 38
+[16-Aug-2021 05:21:55 America/New_York] PHP Warning:  require_once(./includes/nav.php): failed to open stream: No such file or directory in /home/ictzonel/public_html/index.php on line 38
+[16-Aug-2021 05:21:55 America/New_York] PHP Fatal error:  require_once(): Failed opening required './includes/nav.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ictzonel/public_html/index.php on line 38
+[16-Aug-2021 05:22:03 America/New_York] PHP Warning:  require_once(./includes/nav.php): failed to open stream: No such file or directory in /home/ictzonel/public_html/index.php on line 38
+[16-Aug-2021 05:22:03 America/New_York] PHP Fatal error:  require_once(): Failed opening required './includes/nav.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ictzonel/public_html/index.php on line 38
+[16-Aug-2021 05:28:36 America/New_York] PHP Warning:  require_once(./includes/nav.php): failed to open stream: No such file or directory in /home/ictzonel/public_html/index.php on line 38
+[16-Aug-2021 05:28:36 America/New_York] PHP Fatal error:  require_once(): Failed opening required './includes/nav.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ictzonel/public_html/index.php on line 38
+[10-Sep-2021 23:57:14 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ictzonel'@'localhost' (using password: YES) in /home/ictzonel/public_html/includes/connection.php on line 10

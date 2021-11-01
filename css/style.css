@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital@1&display=swap');
+
+body{
+  overflow-x: hidden;
+}
+
+
+div.fx-image{
+    width: 100%;
+    height: 68vh;
+    max-width: 100%;
+    max-height: 68vh;
+    background-image: url('../img/data.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    display: flex;
+    margin-top:84px;
+
+}
+.section-1 .row .col-md-6 h1 {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 800;
+    font-size: 35px;
+  }
+  /*-------Section-1 styling--------*/
+.section-1 .row .col-md-6 h1 {
+    font-family: var(--Rubik);
+    font-weight: 800;
+    font-size: 35px;
+  }
+  
+  .section-1 .row .col-md-6 .big-text {
+    font-family: var(--Lobster);
+    font-size: 6vmin;
+  }
+  .section-1 .row .col-md-6 p .dig {
+    font-size: 12px;
+  }
+  .section-1 .row .col-md-6 .h5 {
+    font-family: var(--Sniglet-font);
+  }
+  
+  .section-1 .row .col-md-6 img {
+  
+    border-radius: 15%;
+    background-size: cover;
+    padding: 15px;
+    margin: 3em 0;
+  }
+  
+  #main-image{
+      width:100%;
+    height: 25em;
+  }
+  
+  @media only screen and (min-width: 1024px) {
+    .section-1 .row .col-md-6 img {
+      height: 25em;
+      margin: 0 0;
+        
+    }
+      
+    } 
+    
+    @media only screen and (max-width: 600px) {
+        
+    iframe{
+        margin:-50px 0 0 -50px 0;
+    }
+    
+      
+    }

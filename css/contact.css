@@ -1,0 +1,94 @@
+section .row .contact {
+    padding: 25px;
+    border-radius: 10px;
+    margin: 7px 0 0 0;
+    background: rgb(17, 7, 100);
+  }
+  
+  section .row .contact .box i {
+    font-size: 30px;
+    margin-right: 20px;
+  }
+  
+  section .row .contact .links a i {
+    font-size: 20px;
+    margin: 5px;
+  }
+  
+  section .row .contact .links a i:hover {
+    color: #0faf0f !important;
+  }
+  
+  .contactform {
+    padding: 40px;
+    background: #fff;
+    box-shadow: 2px 0 15px 0px rgb(187, 186, 186);
+    border-radius: 20px;
+  }
+  
+  .contactform h2 {
+    font-size: 30px;
+    color: #333;
+    font-weight: 500;
+  }
+  
+  .contactform .inputbox {
+    position: relative;
+    width: 100%;
+    margin-top: 10px;
+  }
+  .contactform .inputbox input {
+    width: 100%;
+    padding: 5px 0;
+    font-size: 16px;
+    margin: 10px 0;
+    border: none;
+    border-bottom: 2px solid #333;
+    outline: none;
+    resize: none;
+  }
+  .contactform .inputbox span {
+    position: absolute;
+    left: 0;
+    padding: 5px 0;
+    font-size: 16px;
+    margin: 10px 0;
+    pointer-events: none;
+    transition: 0.5s;
+    color: #666;
+  }
+  .contactform .inputbox input:focus ~ span,
+  .contactform .inputbox textarea:focus ~ span,
+  .contactform .inputbox input:valid ~ span {
+    color: #e91e63;
+    font-size: 12px;
+    transform: translateY(-20px);
+  }
+  .contactform .inputbox input[type="submit"] {
+    width: 100px;
+    background: #00bcd4;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 20px;
+  }
+  
+  @media only screen and (max-width: 500px) {
+    .form {
+      padding: 0;
+    }
+    section .row .contact .box p {
+      font-size: 15px;
+    }
+  
+  }
+  
+  @media only screen and (max-width: 300px) {
+    section .row .contact .box p {
+      font-size: 12px;
+    }
+    
+  }
+  

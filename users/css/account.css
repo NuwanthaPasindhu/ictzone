@@ -1,0 +1,28 @@
+
+
+.offcanvas-body ul li a h5 i{
+    padding-right: 10px;
+  }
+  .navbar-brand{
+    font-weight: 800;
+  }
+  main{
+    padding-top: 48px;
+  }
+  main p,h1{
+    text-align: center;
+  }
+  main h1{
+    margin: 150px auto 0;
+  }
+  main p{
+    width: 50%;
+    margin: 0 auto;
+  }
+  @media screen and (max-width:560px) {
+    iframe{
+      width: 100%;
+      height: 200px;
+    }
+
+  

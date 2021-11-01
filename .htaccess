@@ -1,0 +1,15 @@
+RewriteEngine On
+
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www.ictzone.lk[NC]
+RewriteRule ^(.*)$ https://ictzone.lk/$1 [L,R=301]
+
+RewriteCond %(HTTPS) != On
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} {L,R=301,NE} 
+
+#RewriteRule ^blog$ blog.php [NC,l]
+#RewriteRule ^resources$ resources.php [NC,l]
+#RewriteRule ^classes$ classes.php [NC,l]
+
+
+Options -Indexes
