@@ -52,8 +52,8 @@ include('./includes/nav.php');
       <th scope="col" class="text-center">Link</th>
       <th scope="col">Added Date</th>
       <th scope="col">Delete Date</th>
-      <!--<th scope="col">Action</th>
--->    </tr>
+      <th scope="col">Action</th>
+  </tr>
   </thead>
   <tbody>
    <?php

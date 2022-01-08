@@ -1,6 +1,6 @@
 <?php   
 
-include('./includes/connection.php');
+require('./includes/connection.php');
 
 
 function get_grades(){
@@ -12,7 +12,7 @@ function get_grades(){
         $output = "<select id ='grade' name ='grade' class='form-control grade'>";
         $output .= "<option selected  class='disable'> Grade</option>";
         while ($result= mysqli_fetch_assoc($run)) {
-            $output .= "<option value='".$result['id']."'>".$result['grade']."</option>";   
+            $output .= "<option value='".$result['id']."'>".$result['grade']." ".$result['spacial_notes']."</option>";   
         }
         $output .= "</select>";
         echo $output;
@@ -20,8 +20,6 @@ function get_grades(){
 
     
 }
-
-
 
 function details($id){
     global $con;
@@ -72,56 +70,56 @@ function details($id){
 
 
 
-function sentmail($name,$month,$class,$grade){
+function Sirsentmail($name,$month,$class,$grade){
 
    
 
     $from = 'ictzonel@ictzone.lk ';
     $email = 'kasunrosh@gmail.com';
     $email_subject ='Fees';
+    $gradenumber = get_numgrades($grade);
     //start creating email body
     $email_body= "massage from ICT Zone website <br>
     <hr>
     <br>
 
-     ".$grade." ".$name." ".$month." monthly ".$class." class payments uploaded
+    Grade ".$gradenumber." ".$name." ".$month." month ".$class." class payments uploaded
       ";
      //end creating email body
     
       //start creating email header
     $header="From:{$from}\r\nContent-Type: text/html;";
       //end creating email body
+
       $sent_mail_results=mail($email, $email_subject, $email_body, $header);
       
 
       // check mail errors
 if ($sent_mail_results) {
-
+ echo "<div class=' alert alert-success'> Uploaded Successfull Thank you..</div>";
     }else{
         echo "<div class='alert-danger'>System Error</div>";
     }
 
 
-
-
-
-
 }
 
+function get_numgrades($grade){
+    global $con;
 
+    $query = " SELECT * FROM grades WHERE id ='$grade' ";
+    $run = mysqli_query($con,$query);
+    if ($run) {
+      
+        if ($result= mysqli_fetch_assoc($run)) {
+            $output =$result['grade']." ".$result['spacial_notes'];   
+            return $output;
+        }
+       
+    }
 
-
-
-
-
-
-
-
-
-
-
-
-
+    
+}
 
 
 

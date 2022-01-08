@@ -4,7 +4,7 @@ if (empty($_SESSION['id'])) {
 ?>
 <script src="./js/app.js"></script>
 <script>
-  redirect_two()
+  redirect_two();
 </script>
 <?php
 }
@@ -30,7 +30,7 @@ if (empty($_SESSION['id'])) {
             </div>
 
             <div class="my-3">
-                <label class="my-2"><i class="fas fa-calendar-alt"></i>&nbsp;Month Relevent To The Payment Of Class Fees </label>
+                <label class="my-2"><i class="fas fa-calendar-alt"></i>&nbsp;Month Relevent To The Payment</label>
                <select name="month" class="form-control">
                    <option value="January">January</option>
                    <option value="February">February</option>
@@ -47,11 +47,11 @@ if (empty($_SESSION['id'])) {
                </select>
             </div>
             <div class="my-3">
-                <label for="" class="my-2"><i class="fas fa-calendar-week"></i> &nbsp; Date of Paiment</label>
+                <label for="" class="my-2"><i class="fas fa-calendar-week"></i> &nbsp; Date of Payment</label>
                 <input type="date" name="date" class="form-control">
             </div>
             <div class="my-3">
-                <label for="" class="my-2"><i class="fas fa-dollar-sign"></i> &nbsp; class fees</label>
+                <label for="" class="my-2"><i class="fas fa-dollar-sign"></i> &nbsp; Class Fee</label>
                 <input type="number" min="1000"  step="50" name="currency" class="form-control">
             </div>
             <div class="my-3">

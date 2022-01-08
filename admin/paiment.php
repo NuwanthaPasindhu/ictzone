@@ -32,6 +32,7 @@ require_once('./includes/nav.php');
 
     $('#search').keyup(()=>{
         var txt =$('#search').val();
+        
         if (txt != "") {
           $.ajax({
             url:'searchpayment.php',
@@ -48,6 +49,7 @@ require_once('./includes/nav.php');
     })
    })
 function get_data(){
+    
 $.ajax({
                 url:'searchpayment.php',
                 method:'POST',

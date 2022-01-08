@@ -35,7 +35,6 @@ include('./includes/header.php');?>
           
          </tr>
        </thead>";
-        if (mysqli_fetch_assoc($run)) {
           while ($result = mysqli_fetch_assoc($run)) {
             
             $output .= "<tr>";
@@ -47,10 +46,8 @@ include('./includes/header.php');?>
           
           } 
             
-          }else {
-               $output.="<tr><th colspan='4' class='text-center'>Recordings will be Availble soon</th></tr>";
-             }
-      $output.="</table>";
+      
+      $output.="</tr></table>";
       echo $output;
       
       

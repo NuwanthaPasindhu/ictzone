@@ -47,8 +47,6 @@ $query = "SELECT * FROM payments WHERE feesmonth LIKE'{$month_name}' ORDER BY  	
        
     }
    $out.= "</tr><tr style='padding: 10px ;  border:1px solid black;'><th colspan='6'style='padding: 10px 50px;  border:1px solid black; text-align:right;'> Total Month Fees &nbsp Rs: \t".$full.".00</th></tr></tbody></table>";
-     
- echo $out;
 
   $from = 'ictzonel@ictzone.lk';
     $email_subject =$month_name." Month Payment Report";

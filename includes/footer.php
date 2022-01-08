@@ -47,7 +47,7 @@
             <div class="col-md-12">
               <p class="text-muted">
                 Copyright &copy;2021 ICT ZONE. Designed and Developed by
-                <a href="#!" class="text-light">Nuwantha Pasindu &#38; Kalpa Kavindu</a>
+                <a href="#!" class="text-light">Nuwantha Pasindu</a>
               </p>
             </div>
           </div>

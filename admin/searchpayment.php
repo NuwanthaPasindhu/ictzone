@@ -36,7 +36,7 @@ $out = "
   
 }else{
   $txt = $_GET['search'];
-  $query = "SELECT * FROM payments  WHERE fullname LIKE '%$txt%' ORDER BY id desc";
+  $query = "SELECT * FROM payments  WHERE fullname LIKE '%$txt%' OR class LIKE '%$txt%' ORDER BY id desc";
   $run = mysqli_query($con,$query);
   while($result = mysqli_fetch_assoc($run)) {
     $out.= "<tr><td>".$result['fullname']."</td>";

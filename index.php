@@ -6,11 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google-site-verification" content="UdliUPXDdlE2Ise_YBrTTQYyMLxEiyNaJpF3KVBgebY" />
-    <meta name="keywords" content="ict,information comunication technology,ict classes,ict classes at piliyandala,ict past papers, ict marking schemes, ict zone grade 11 ict classes, grade 9 ict classesgrade 10 ict classes, AL ict classes,OL ict classes">  
+    <meta name="keywords" content="ict,information communication technology,ict classes,ict classes at piliyandala,ict past papers, ict marking schemes, ict zone grade 11 ict classes, grade 9 ict classesgrade 10 ict classes, AL ict classes,OL ict classes">  
     <link rel="canonical" href="https://www.ictzone.lk/">
-    <!--
-    <meta name="description" content="Download Past Papers & Marking Schemes. Here you can download O/L ICT Exam Past Papers and Marking Schemes.">
-    <meta name="description" content="Srilamlan Best ict education website"> -->
     <meta name="description" content="ict zone ksun Fernando's Personal website teaches Information comunication technology">
     
         <meta name="robots" content="index, follow">
